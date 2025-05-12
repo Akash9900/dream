@@ -32,7 +32,7 @@ Before you begin, ensure you have installed:
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Akash9900/dream.git
 cd fantasy-sports-app
 ```
 
