@@ -1,0 +1,3 @@
+Dhir
+1) team preview where the background of the ground and players and their positions are shown.
+2) 
